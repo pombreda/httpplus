@@ -1,0 +1,1 @@
+HTTP library for Python that uses nonblocking socket io and has an extensive testsuite to prove correctness.
